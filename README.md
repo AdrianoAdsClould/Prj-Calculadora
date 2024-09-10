@@ -7,12 +7,16 @@ Este projeto é uma calculadora simples em Python que realiza operações básic
 
  - oper_soma.py: Contém a função de adição.
  <br>
+ 
  - oper_subtracao.py: Contém a função de subtração.
  <br>
+ 
  - oper_multiplicacao.py: Contém a função de multiplicação.
  <br>
+ 
 - oper_divisao.py: Contém a função de divisão, incluindo tratamento para divisão por zero.
 <br>
+
 - calculadora.py: Arquivo principal que implementa uma calculadora.
 
 ## Funcionalidades
